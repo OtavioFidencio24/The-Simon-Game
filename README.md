@@ -60,7 +60,7 @@ This project is licensed under the MIT License. For more details, see the `LICEN
 ## 📬 Contact
 
 **Otavio Fidencio**\
-📷 Instagram: [@otavio\_fidencio](https://instagram.com/otaviofidencio)\
+📷 Instagram: [@otaviofidencio](https://instagram.com/otaviofidencio)\
 📧 Email: [otaviofidencioie@gmail.com](mailto:otaviofidencioie@gmail.com)\
 🔗 Project Link: [GitHub - The Simon Game](https://github.com/OtavioFidencio24/The-Simon-Game)
 
